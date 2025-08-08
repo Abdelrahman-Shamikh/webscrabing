@@ -79,7 +79,6 @@ The extracted data is saved into CSV and JSON files for easy consumption.
 - Python 3.7+
 - `requests` library
 - `beautifulsoup4` library
-- `pandas` library (optional, but recommended)
 
 Install dependencies using pip:
 
