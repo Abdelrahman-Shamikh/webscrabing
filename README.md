@@ -32,7 +32,6 @@
   - [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ---
@@ -65,14 +64,14 @@ The extracted data is saved into CSV and JSON files for easy consumption.
 
 ## Project Structure
 
-└── Webscraping/
-    ├── Books.json          # Extracted product card data in JSON
-    ├── cards.json          # Product card details in JSON
-    ├── fields.json         # Form fields metadata in JSON
-    ├── links.json          # All anchor links and iframe video URLs in JSON
-    ├── Practice.csv        # Extracted headings, paragraphs, list items in CSV
-    ├── Prods.csv           # Extracted product table data in CSV
-    └── Webscraping.ipynb   # Jupyter notebook with scraping code
+└── Webscraping/<br>
+    ├── Books.json          # Extracted product card data in JSON<br>
+    ├── cards.json          # Product card details in JSON<br>
+    ├── fields.json         # Form fields metadata in JSON<br>
+    ├── links.json          # All anchor links and iframe video URLs in JSON<br>
+    ├── Practice.csv        # Extracted headings, paragraphs, list items in CSV<br>
+    ├── Prods.csv           # Extracted product table data in CSV<br>
+    └── Webscraping.ipynb   # Jupyter notebook with scraping code<br>
 ## Getting Started
 
 ### Prerequisites
