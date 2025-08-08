@@ -3,7 +3,7 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/user/user.png" width="30%" alt="Webscraping Project Logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/User_icon_2.svg" width="30%" alt="User Icon"/>
 
 # WEBSCRAPING PROJECT
 
