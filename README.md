@@ -3,7 +3,7 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="30%" alt="Python Icon"/>
+<img src="https://img.icons8.com/ios-filled/100/000000/user.png" width="30%" alt="User Icon"/>
 
 # WEBSCRAPING PROJECT
 
