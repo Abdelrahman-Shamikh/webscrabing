@@ -3,7 +3,7 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/89/User_icon_2.svg" width="30%" alt="User Icon"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="30%" alt="Python Icon"/>
 
 # WEBSCRAPING PROJECT
 
