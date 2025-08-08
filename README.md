@@ -3,7 +3,7 @@
 <!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/User_icon_2.svg" width="30%" alt="Webscraping Project Logo"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/User_icon_2.svg/512px-User_icon_2.svg.png" width="30%" alt="Webscraping Project Logo"/>
 
 # WEBSCRAPING PROJECT
 
