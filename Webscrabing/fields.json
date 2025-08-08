@@ -1,0 +1,1 @@
+[{"name": "username", "type": "text"}, {"name": "password", "type": "password"}, {"name": "options", "type": "select", "options": ["option1", "option2", "option3"]}, {"name": "terms", "type": "checkbox", "default": false}, {"type": "submit", "default": "Submit"}]
